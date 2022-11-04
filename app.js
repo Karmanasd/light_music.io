@@ -16,7 +16,7 @@ btn1.addEventListener("click", function(){
 		tg.MainButton.hide();
 	}
 	else {
-		tg.MainButton.setText("Вы выбрали 1 метр ленты + контроллер");
+		tg.MainButton.setText("Купить 1 метр ленты + контроллер");
 		item = "1";
 		tg.MainButton.show();
 	}
@@ -27,7 +27,7 @@ btn2.addEventListener("click", function(){
 		tg.MainButton.hide();
 	}
 	else {
-		tg.MainButton.setText("Вы выбрали 2 метра ленты + контроллер");
+		tg.MainButton.setText("Купить 2 метра ленты + контроллер");
 		item = "2";
 		tg.MainButton.show();
 	}
@@ -38,7 +38,7 @@ btn3.addEventListener("click", function(){
 		tg.MainButton.hide();
 	}
 	else {
-		tg.MainButton.setText("Вы выбрали 3 метра ленты + контроллер");
+		tg.MainButton.setText("Купить 3 метра ленты + контроллер");
 		item = "3";
 		tg.MainButton.show();
 	}
@@ -49,7 +49,7 @@ btn4.addEventListener("click", function(){
 		tg.MainButton.hide();
 	}
 	else {
-		tg.MainButton.setText("Вы выбрали 4 метра ленты + контроллер");
+		tg.MainButton.setText("Купить 4 метра ленты + контроллер");
 		item = "4";
 		tg.MainButton.show();
 	}
